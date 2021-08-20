@@ -4,5 +4,4 @@ ipywidgets
 ipyleaflet
 watermark
 netCDF4
-calendar
 matplotlib
