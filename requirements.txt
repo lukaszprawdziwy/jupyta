@@ -5,3 +5,4 @@ ipyleaflet
 watermark
 netCDF4
 matplotlib
+jupyter_contrib_nbextensions
