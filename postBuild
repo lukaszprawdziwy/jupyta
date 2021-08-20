@@ -2,5 +2,5 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable hide_input/main
 jupyter nbextension enable hide_input_all/main
-wget -q -O tn_ens_mean_2011-2020.nc "https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tn_ens_mean_0.25deg_reg_2011-2020_v23.1e.nc"
-wget -q -O tx_ens_mean_2011-2020.nc "https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.25deg_reg_ensemble/tx_ens_mean_0.25deg_reg_2011-2020_v23.1e.nc"
+wget -q -O tn_ens_mean_2011-2020.nc "https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tn_ens_mean_0.1deg_reg_2011-2020_v23.1e.nc"
+wget -q -O tx_ens_mean_2011-2020.nc "https://knmi-ecad-assets-prd.s3.amazonaws.com/ensembles/data/Grid_0.1deg_reg_ensemble/tx_ens_mean_0.1deg_reg_2011-2020_v23.1e.nc"
