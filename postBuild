@@ -1,2 +1,3 @@
 jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension Hide_input
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable --py Hide_input
